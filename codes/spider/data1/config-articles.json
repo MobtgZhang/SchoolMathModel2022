@@ -1,0 +1,14 @@
+{
+    "user_id_list": "./result/search_user_id_list-new.txt",
+    "filter": 1,
+    "since_date": "2017-01-01",
+    "end_date": "2022-05-20",
+    "random_wait_pages": [1, 5],
+    "random_wait_seconds": [6, 10],
+    "global_wait": [[1000, 3600], [500, 2000]],
+    "write_mode": ["csv"],
+	"file_download_timeout": [5, 5, 10],
+	"result_dir_name": 0,
+    "cookie": "_T_WM=e0ae98e8ed1e9caf18c7da7ed5e0743f; SUB=_2A25PhxVHDeRhGeNJ6VcU9SfIzzmIHXVsi7sPrDV6PUJbkdANLWnbkW1NS_bDZYF5Vt7pentvWSQVh7K0WXXEifa-; SCF=AvCvMadoy7uFr5SQXhJkokHktMELN5DJD6sVEjhsPZ7cr8dB-2XuGW05mOo17vutcEbrIrqDi7NhVeXw9Z6JUTw.",
+    "sqlite_config": "weibo.db"
+}
